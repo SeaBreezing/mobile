@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gunicorn
+jinjia2
+python-multipart
+datetime
